@@ -8,3 +8,5 @@ Zero Knowledge Proofs
 https://www.youtube.com/watch?v=_MYpZQVZdiM
 
 
+# pos quantico
+https://en.wikipedia.org/wiki/Lattice-based_cryptography
