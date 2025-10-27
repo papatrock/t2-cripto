@@ -34,3 +34,8 @@ https://en.wikipedia.org/wiki/Visual_cryptography
 # pos quantico
 
 https://en.wikipedia.org/wiki/Lattice-based_cryptography
+
+
+# Pigpen cipher
+
+https://crypto.interactive-maths.com/pigpen-cipher.html
