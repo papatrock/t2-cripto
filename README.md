@@ -39,3 +39,23 @@ https://en.wikipedia.org/wiki/Lattice-based_cryptography
 # Pigpen cipher
 
 https://crypto.interactive-maths.com/pigpen-cipher.html
+
+# Introdução
+
+* Cifra simples, consiste na substituição de símbolos por letras de acordo com um determinado esquema
+
+# Historia
+
+* De Occulta Philosophia
+    * Livro 3
+
+# Usos
+* Porq foi abandonada
+    * muito simples bla bla
+
+
+## Relação com o [Tic-Tac-Toe Code](https://clubpenguin.fandom.com/wiki/Tic-Tac-Toe_Code)
+
+* inspiração e diferença
+* Versão simplificada
+
