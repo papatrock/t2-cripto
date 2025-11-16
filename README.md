@@ -18,12 +18,12 @@ https://en.wikipedia.org/wiki/Salsa20
 
 https://en.wikipedia.org/wiki/MISTY1
 
-n eh um algoritmo especifico, mas achei a ideia interessante:
-https://en.wikipedia.org/wiki/Visual_cryptography
-
 
 # pos quantico
 
 https://en.wikipedia.org/wiki/Lattice-based_cryptography
 
 
+# Visual Cryptography
+
+https://en.wikipedia.org/wiki/Visual_cryptography
