@@ -27,3 +27,5 @@ https://en.wikipedia.org/wiki/Lattice-based_cryptography
 # Visual Cryptography
 
 https://en.wikipedia.org/wiki/Visual_cryptography
+
+https://www.youtube.com/watch?v=rqof58skfUc
